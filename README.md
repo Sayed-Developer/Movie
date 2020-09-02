@@ -1,9 +1,4 @@
-# Movie Info App - Flutter UI
-**Packages we are using:**
+#About the App
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-- animations: [link](https://pub.dev/packages/animations)
-
-We design two pages one is the home page and another one is movie info page that will help you to design clear interfaces for movie app faster and easier.
-
+This app is easy to use, Explore popular movies and TV shows, the latest movies. Also explore movies in theaters and upcoming movies. including celebrities, actors, actresses, and directors More Categories we have : Action movie, Animation movie, Comedy movie, HD Movies online, Crime movie, Drama movie, Wacth Movie Online, HD Movies Free.
 
