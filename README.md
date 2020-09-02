@@ -4,10 +4,10 @@ This app is easy to use, Explore popular movies and TV shows, the latest movies.
 
 # App Design
 
-<img src="AppScreenShots/Screenshot_20200902-215059.png" width= 720 height=1520>
+<img src="AppScreenShots/Screenshot_20200902-215059.png" width= 200 height=400>
 
-<img src="AppScreenShots/Screenshot_20200902-215126.png" width= 720 height=1520>
+<img src="AppScreenShots/Screenshot_20200902-215126.png" width= 200 height=400>
 
-<img src="AppScreenShots/Screenshot_20200902-215141.png" width= 720 height=1520>
+<img src="AppScreenShots/Screenshot_20200902-215141.png" width= 200 height=400>
 
-<img src="AppScreenShots/Screenshot_20200902-215155.png" width= 720 height=1520>
+<img src="AppScreenShots/Screenshot_20200902-215155.png" width= 200 height=400>
